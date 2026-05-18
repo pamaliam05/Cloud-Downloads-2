@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1840",
+  "folder": "Other__gAAAAABqCuJXtqcucnOda7HIRdXCBLlzqUzl0h4-ynTEAcaYe-XGp_muP3LPvW3f_20260518095942_3e43a8",
+  "base_name": "Other__gAAAAABqCuJXtqcucnOda7HIRdXCBLlzqUzl0h4-ynTEAcaYe-XGp_muP3LPvW3f_20260518095942_3e43a8.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/pamaliam05/Cloud-Downloads-2/releases/tag/co-releases-v1-1840",
+  "files": [
+    {
+      "name": "Other__gAAAAABqCuJXtqcucnOda7HIRdXCBLlzqUzl0h4-ynTEAcaYe-XGp_muP3LPvW3f_20260518095942_3e43a8.mp4",
+      "url": "https://github.com/pamaliam05/Cloud-Downloads-2/releases/download/co-releases-v1-1840/Other__gAAAAABqCuJXtqcucnOda7HIRdXCBLlzqUzl0h4-ynTEAcaYe-XGp_muP3LPvW3f_20260518095942_3e43a8.mp4",
+      "api_url": "https://api.github.com/repos/pamaliam05/Cloud-Downloads-2/releases/assets/423180918",
+      "id": 423180918,
+      "size": 139391546,
+      "download_count": 0
+    }
+  ]
+}
